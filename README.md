@@ -1,0 +1,2 @@
+# gomock
+test go mock
